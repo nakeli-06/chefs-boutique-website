@@ -1,0 +1,6 @@
+{
+  "name": "Chef's Boutique - Baking Creations",
+  "description": "Luxury artisanal bakery and patisserie in eMalahleni (Witbank), South Africa. Custom celebration cakes, gourmet cupcakes, dessert tables, and confectionery crafted to order.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
